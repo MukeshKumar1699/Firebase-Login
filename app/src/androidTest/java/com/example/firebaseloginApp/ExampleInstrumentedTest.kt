@@ -1,4 +1,4 @@
-package com.example.firebaselogin
+package com.example.firebaseloginApp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
